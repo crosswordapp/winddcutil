@@ -20,6 +20,7 @@
 #include <unordered_map>
 #include <sstream>
 #include <algorithm>
+#include <functional>
 
 std::vector<PHYSICAL_MONITOR> physicalMonitorHandles{};
 
